@@ -1,0 +1,1295 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param111",
+			"GroupId": "",
+			"Name": "帽子　スイッチ"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "Param58",
+			"GroupId": "",
+			"Name": "帽子フワフワ"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "瞳のあぶく"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "瞳のあぶく2"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "瞳のあぶく3"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "瞳のあぶく4"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "瞳　ホワホワ"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "",
+			"Name": "瞳クラゲ2"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "",
+			"Name": "瞳　ヒラヒラ1"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "",
+			"Name": "瞳　ヒラヒラ2"
+		},
+		{
+			"Id": "Param76",
+			"GroupId": "",
+			"Name": "→瞳　ホワホワ"
+		},
+		{
+			"Id": "Param77",
+			"GroupId": "",
+			"Name": "→瞳クラゲ2"
+		},
+		{
+			"Id": "Param78",
+			"GroupId": "",
+			"Name": "→瞳　ヒラヒラ1"
+		},
+		{
+			"Id": "Param79",
+			"GroupId": "",
+			"Name": "→瞳　ヒラヒラ2"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "右目　瞬き　泡"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "瞬き泡"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "",
+			"Name": "波"
+		},
+		{
+			"Id": "Param110",
+			"GroupId": "",
+			"Name": "胸ダイヤ「プリズム」"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "a",
+			"GroupId": "ParamGroup",
+			"Name": "あ"
+		},
+		{
+			"Id": "i",
+			"GroupId": "ParamGroup",
+			"Name": "い"
+		},
+		{
+			"Id": "u",
+			"GroupId": "ParamGroup",
+			"Name": "う"
+		},
+		{
+			"Id": "e",
+			"GroupId": "ParamGroup",
+			"Name": "え"
+		},
+		{
+			"Id": "o",
+			"GroupId": "ParamGroup",
+			"Name": "お"
+		},
+		{
+			"Id": "sad",
+			"GroupId": "ParamGroup",
+			"Name": "悲"
+		},
+		{
+			"Id": "fun",
+			"GroupId": "ParamGroup",
+			"Name": "嬉"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "体回転　X　（髪との整合用）"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "",
+			"Name": "パラメータ82"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "",
+			"Name": "腕　体のY揺れ用1"
+		},
+		{
+			"Id": "Param59",
+			"GroupId": "",
+			"Name": "帽子　体Y　連動用"
+		},
+		{
+			"Id": "Param60",
+			"GroupId": "",
+			"Name": "帽子　体Z　連動用"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "",
+			"Name": "腕　体のY揺れ用2"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "",
+			"Name": "乳揺れ：縦0"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "乳揺れ：縦1"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "",
+			"Name": "乳揺れ：縦2"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup8",
+			"Name": "■袖　：縦揺れ"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup8",
+			"Name": "■袖　：縦揺れ"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup2",
+			"Name": "■髪　縦揺れ1-1"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup2",
+			"Name": "■髪　縦揺れ1-2"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup2",
+			"Name": "■髪　縦揺れ1-3"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup2",
+			"Name": "■髪　縦揺れ1-4"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup7",
+			"Name": "■髪　縦揺れ2-1"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup7",
+			"Name": "■髪　縦揺れ2-2"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup7",
+			"Name": "■髪　縦揺れ2-3"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup7",
+			"Name": "■髪　縦揺れ2-4"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup4",
+			"Name": "■髪　縦揺れ3-0"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup4",
+			"Name": "■髪　縦揺れ3-1"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup4",
+			"Name": "■髪　縦揺れ3-2"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup4",
+			"Name": "■髪　縦揺れ3-3"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup4",
+			"Name": "■髪　縦揺れ3-4"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup3",
+			"Name": "□髪←　横揺れ1-1"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup3",
+			"Name": "□髪←　横揺れ1-2"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup3",
+			"Name": "□髪←　横揺れ1-3"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup3",
+			"Name": "□髪←　横揺れ1-4"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup3",
+			"Name": "□髪←　横揺れ1-5"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup5",
+			"Name": "□髪←　横揺れ2-1"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup5",
+			"Name": "□髪←　横揺れ2-2"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup5",
+			"Name": "□髪←　横揺れ2-3"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup5",
+			"Name": "□髪←　横揺れ2-4"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup5",
+			"Name": "□髪←　横揺れ2-5"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup6",
+			"Name": "□髪　横揺れ3-1"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup6",
+			"Name": "□髪　横揺れ3-2"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup6",
+			"Name": "□髪　横揺れ3-3"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup6",
+			"Name": "□髪　横揺れ3-4"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup6",
+			"Name": "□髪　横揺れ3-5"
+		},
+		{
+			"Id": "Param50",
+			"GroupId": "ParamGroup9",
+			"Name": "■スカート外側　：縦揺れ 1"
+		},
+		{
+			"Id": "Param51",
+			"GroupId": "ParamGroup9",
+			"Name": "■スカート外側　：縦揺れ 2"
+		},
+		{
+			"Id": "Param52",
+			"GroupId": "ParamGroup9",
+			"Name": "■スカート外側　：縦揺れ 3"
+		},
+		{
+			"Id": "Param53",
+			"GroupId": "ParamGroup9",
+			"Name": "■スカート外側　：縦揺れ 4"
+		},
+		{
+			"Id": "Param54",
+			"GroupId": "ParamGroup10",
+			"Name": "□スカート外側　：横揺れ 1"
+		},
+		{
+			"Id": "Param55",
+			"GroupId": "ParamGroup10",
+			"Name": "□スカート外側　：横揺れ 2"
+		},
+		{
+			"Id": "Param56",
+			"GroupId": "ParamGroup10",
+			"Name": "□スカート外側　：横揺れ　3"
+		},
+		{
+			"Id": "Param57",
+			"GroupId": "ParamGroup10",
+			"Name": "□スカート外側　：横揺れ 4"
+		},
+		{
+			"Id": "Param61",
+			"GroupId": "ParamGroup12",
+			"Name": "帽子　縦揺れ"
+		},
+		{
+			"Id": "Param62",
+			"GroupId": "ParamGroup12",
+			"Name": "帽子　縦揺れ2"
+		},
+		{
+			"Id": "Param63",
+			"GroupId": "ParamGroup12",
+			"Name": "帽子　縦揺れ3"
+		},
+		{
+			"Id": "Param64",
+			"GroupId": "ParamGroup13",
+			"Name": "□後ろ髪　横揺れ1-1"
+		},
+		{
+			"Id": "Param65",
+			"GroupId": "ParamGroup13",
+			"Name": "□後ろ髪　横揺れ1-2"
+		},
+		{
+			"Id": "Param66",
+			"GroupId": "ParamGroup13",
+			"Name": "□後ろ髪　横揺れ1-3"
+		},
+		{
+			"Id": "Param67",
+			"GroupId": "ParamGroup13",
+			"Name": "□後ろ髪　横揺れ1-3"
+		},
+		{
+			"Id": "Param84",
+			"GroupId": "ParamGroup16",
+			"Name": "□後ろ髪　横揺れ2-1"
+		},
+		{
+			"Id": "Param85",
+			"GroupId": "ParamGroup16",
+			"Name": "□後ろ髪　横揺れ2-2"
+		},
+		{
+			"Id": "Param86",
+			"GroupId": "ParamGroup16",
+			"Name": "□後ろ髪　横揺れ2-3"
+		},
+		{
+			"Id": "Param87",
+			"GroupId": "ParamGroup16",
+			"Name": "□後ろ髪　横揺れ2-3"
+		},
+		{
+			"Id": "Param92",
+			"GroupId": "ParamGroup18",
+			"Name": "□後ろ髪　横揺れ3-1"
+		},
+		{
+			"Id": "Param93",
+			"GroupId": "ParamGroup18",
+			"Name": "□後ろ髪　横揺れ3-2"
+		},
+		{
+			"Id": "Param94",
+			"GroupId": "ParamGroup18",
+			"Name": "□後ろ髪　横揺れ3-3"
+		},
+		{
+			"Id": "Param95",
+			"GroupId": "ParamGroup18",
+			"Name": "□後ろ髪　横揺れ3-3"
+		},
+		{
+			"Id": "Param100",
+			"GroupId": "ParamGroup20",
+			"Name": "□後ろ髪　横揺れ4-1"
+		},
+		{
+			"Id": "Param101",
+			"GroupId": "ParamGroup20",
+			"Name": "□後ろ髪　横揺れ4-2"
+		},
+		{
+			"Id": "Param102",
+			"GroupId": "ParamGroup20",
+			"Name": "□後ろ髪　横揺れ4-3"
+		},
+		{
+			"Id": "Param103",
+			"GroupId": "ParamGroup20",
+			"Name": "□後ろ髪　横揺れ4-3"
+		},
+		{
+			"Id": "Param68",
+			"GroupId": "ParamGroup14",
+			"Name": "■後ろ髪　縦揺れ1-1"
+		},
+		{
+			"Id": "Param69",
+			"GroupId": "ParamGroup14",
+			"Name": "■後ろ髪　縦揺れ1-2"
+		},
+		{
+			"Id": "Param70",
+			"GroupId": "ParamGroup14",
+			"Name": "■後ろ髪　縦揺れ1-3"
+		},
+		{
+			"Id": "Param71",
+			"GroupId": "ParamGroup14",
+			"Name": "■後ろ髪　縦揺れ1-3"
+		},
+		{
+			"Id": "Param80",
+			"GroupId": "ParamGroup15",
+			"Name": "■後ろ髪　縦揺れ2-1"
+		},
+		{
+			"Id": "Param81",
+			"GroupId": "ParamGroup15",
+			"Name": "■後ろ髪　縦揺れ2-2"
+		},
+		{
+			"Id": "Param82",
+			"GroupId": "ParamGroup15",
+			"Name": "■後ろ髪　縦揺れ2-3"
+		},
+		{
+			"Id": "Param83",
+			"GroupId": "ParamGroup15",
+			"Name": "■後ろ髪　縦揺れ2-3"
+		},
+		{
+			"Id": "Param88",
+			"GroupId": "ParamGroup17",
+			"Name": "■後ろ髪　縦揺れ3-1"
+		},
+		{
+			"Id": "Param89",
+			"GroupId": "ParamGroup17",
+			"Name": "■後ろ髪　縦揺れ3-2"
+		},
+		{
+			"Id": "Param90",
+			"GroupId": "ParamGroup17",
+			"Name": "■後ろ髪　縦揺れ3-3"
+		},
+		{
+			"Id": "Param91",
+			"GroupId": "ParamGroup17",
+			"Name": "■後ろ髪　縦揺れ3-4"
+		},
+		{
+			"Id": "Param96",
+			"GroupId": "ParamGroup19",
+			"Name": "■後ろ髪　縦揺れ4-1"
+		},
+		{
+			"Id": "Param97",
+			"GroupId": "ParamGroup19",
+			"Name": "■後ろ髪　縦揺れ4-2"
+		},
+		{
+			"Id": "Param98",
+			"GroupId": "ParamGroup19",
+			"Name": "■後ろ髪　縦揺れ4-3"
+		},
+		{
+			"Id": "Param99",
+			"GroupId": "ParamGroup19",
+			"Name": "■後ろ髪　縦揺れ4-4"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "リセット用"
+		},
+		{
+			"Id": "Param73",
+			"GroupId": "",
+			"Name": "ヒレ1-1"
+		},
+		{
+			"Id": "Param72",
+			"GroupId": "",
+			"Name": "ヒレ1-2"
+		},
+		{
+			"Id": "Param74",
+			"GroupId": "",
+			"Name": "ヒレ2-1"
+		},
+		{
+			"Id": "Param75",
+			"GroupId": "",
+			"Name": "ヒレ2-2"
+		},
+		{
+			"Id": "Param104",
+			"GroupId": "",
+			"Name": "ヒレ3-1"
+		},
+		{
+			"Id": "Param105",
+			"GroupId": "",
+			"Name": "ヒレ3-2"
+		},
+		{
+			"Id": "Param106",
+			"GroupId": "",
+			"Name": "ヒレ4-1"
+		},
+		{
+			"Id": "Param107",
+			"GroupId": "",
+			"Name": "ヒレ4-2"
+		},
+		{
+			"Id": "Param108",
+			"GroupId": "",
+			"Name": "ヒレ5-1"
+		},
+		{
+			"Id": "Param109",
+			"GroupId": "",
+			"Name": "ヒレ5-2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[0]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[1]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[2]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[3]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[4]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[5]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[6]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_8_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[7]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_9_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[8]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_10_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[9]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_11_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[10]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_12_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[11]触手"
+		},
+		{
+			"Id": "Param_Angle_Rotation_13_ArtMesh178",
+			"GroupId": "ParamGroup11",
+			"Name": "[12]触手"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "口"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "袖　揺れ"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "■髪　縦揺れ1"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "■髪　縦揺れ2"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "■髪　縦揺れ3"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "□髪1　横揺れ"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "□髪2　横揺れ"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "□髪3　横揺れ"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "■　スカート外側　縦揺れ"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "□　スカート外側　横揺れ"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "帽子　縦揺れ"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "□後ろ髪　横揺れ"
+		},
+		{
+			"Id": "ParamGroup16",
+			"GroupId": "",
+			"Name": "□後ろ髪　横揺れ2"
+		},
+		{
+			"Id": "ParamGroup18",
+			"GroupId": "",
+			"Name": "□後ろ髪　横揺れ3"
+		},
+		{
+			"Id": "ParamGroup20",
+			"GroupId": "",
+			"Name": "□後ろ髪　横揺れ4"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "■後ろ髪　縦揺れ"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "■後ろ髪　縦揺れ2"
+		},
+		{
+			"Id": "ParamGroup17",
+			"GroupId": "",
+			"Name": "■後ろ髪　縦揺れ3"
+		},
+		{
+			"Id": "ParamGroup19",
+			"GroupId": "",
+			"Name": "■後ろ髪　縦揺れ4"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "触手"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part63",
+			"Name": "くらげちゃん小物＆帽子.psd"
+		},
+		{
+			"Id": "Part6",
+			"Name": "頭部"
+		},
+		{
+			"Id": "Part12",
+			"Name": "顔輪郭"
+		},
+		{
+			"Id": "Part13",
+			"Name": "顎"
+		},
+		{
+			"Id": "Part14",
+			"Name": "首"
+		},
+		{
+			"Id": "Part49",
+			"Name": "体.psd"
+		},
+		{
+			"Id": "Part25",
+			"Name": "髪.psd"
+		},
+		{
+			"Id": "Part42",
+			"Name": "帽子中　裏"
+		},
+		{
+			"Id": "Part2",
+			"Name": "髪"
+		},
+		{
+			"Id": "Part17",
+			"Name": "鼻"
+		},
+		{
+			"Id": "Part7",
+			"Name": "口"
+		},
+		{
+			"Id": "Part70",
+			"Name": "目＆眉"
+		},
+		{
+			"Id": "Part83",
+			"Name": "本体←"
+		},
+		{
+			"Id": "Part77",
+			"Name": "本体→"
+		},
+		{
+			"Id": "Part26",
+			"Name": "体"
+		},
+		{
+			"Id": "Part37",
+			"Name": "下半身"
+		},
+		{
+			"Id": "Part46",
+			"Name": "波"
+		},
+		{
+			"Id": "Part48",
+			"Name": "スカート"
+		},
+		{
+			"Id": "Part54",
+			"Name": "下半身"
+		},
+		{
+			"Id": "Part24",
+			"Name": "髪後ろ"
+		},
+		{
+			"Id": "Part96",
+			"Name": "触手→"
+		},
+		{
+			"Id": "Part62",
+			"Name": "触手←"
+		},
+		{
+			"Id": "Part109",
+			"Name": "前髪影用"
+		},
+		{
+			"Id": "Part18",
+			"Name": "←前髪1"
+		},
+		{
+			"Id": "Part19",
+			"Name": "→前髪1"
+		},
+		{
+			"Id": "Part105",
+			"Name": "←前髪1-2"
+		},
+		{
+			"Id": "Part106",
+			"Name": "→前髪1-2"
+		},
+		{
+			"Id": "Part20",
+			"Name": "→前髪2"
+		},
+		{
+			"Id": "Part4",
+			"Name": "←前髪2"
+		},
+		{
+			"Id": "Part15",
+			"Name": "→前髪3"
+		},
+		{
+			"Id": "Part5",
+			"Name": "←前髪3"
+		},
+		{
+			"Id": "Part22",
+			"Name": "歯 ↑"
+		},
+		{
+			"Id": "Part3",
+			"Name": "歯 ↓"
+		},
+		{
+			"Id": "Part11",
+			"Name": "形のマスク用"
+		},
+		{
+			"Id": "Part21",
+			"Name": "口内.psd"
+		},
+		{
+			"Id": "Part84",
+			"Name": "目"
+		},
+		{
+			"Id": "Part85",
+			"Name": "瞳"
+		},
+		{
+			"Id": "Part88",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "Part78",
+			"Name": "目"
+		},
+		{
+			"Id": "Part79",
+			"Name": "瞳"
+		},
+		{
+			"Id": "Part82",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "Part34",
+			"Name": "ダイヤ　（胴）"
+		},
+		{
+			"Id": "Part50",
+			"Name": "胴巻き3.psd"
+		},
+		{
+			"Id": "Part28",
+			"Name": "同巻き2"
+		},
+		{
+			"Id": "Part29",
+			"Name": "胸"
+		},
+		{
+			"Id": "Part32",
+			"Name": "胴体"
+		},
+		{
+			"Id": "Part35",
+			"Name": "腕←"
+		},
+		{
+			"Id": "Part67",
+			"Name": "腕→"
+		},
+		{
+			"Id": "Part38",
+			"Name": "足←"
+		},
+		{
+			"Id": "Part47",
+			"Name": "フォルダー 7"
+		},
+		{
+			"Id": "Part55",
+			"Name": "足"
+		},
+		{
+			"Id": "Part64",
+			"Name": "後ろ髪1（頭頂部）"
+		},
+		{
+			"Id": "Part65",
+			"Name": "パーツ66"
+		},
+		{
+			"Id": "Part89",
+			"Name": "パーツ90"
+		},
+		{
+			"Id": "Part90",
+			"Name": "パーツ91"
+		},
+		{
+			"Id": "Part97",
+			"Name": "ヒレ　一段目"
+		},
+		{
+			"Id": "ArtMesh178_Skinning2",
+			"Name": "触手(スキニング)"
+		},
+		{
+			"Id": "Part103",
+			"Name": "触手(回転)"
+		},
+		{
+			"Id": "Part41",
+			"Name": "ヒレ　一段目"
+		},
+		{
+			"Id": "ArtMesh178_Skinning",
+			"Name": "触手(スキニング)"
+		},
+		{
+			"Id": "Part27",
+			"Name": "触手(回転)"
+		},
+		{
+			"Id": "Part107",
+			"Name": "←前髪1"
+		},
+		{
+			"Id": "Part108",
+			"Name": "→前髪1"
+		},
+		{
+			"Id": "Part86",
+			"Name": "泡瞬き用"
+		},
+		{
+			"Id": "Part87",
+			"Name": "泡"
+		},
+		{
+			"Id": "Part80",
+			"Name": "泡瞬き用"
+		},
+		{
+			"Id": "Part81",
+			"Name": "泡"
+		},
+		{
+			"Id": "Part104",
+			"Name": "プリズム.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "フォルダー 3"
+		},
+		{
+			"Id": "Part33",
+			"Name": "フォルダー 1"
+		},
+		{
+			"Id": "Part31",
+			"Name": "胸→"
+		},
+		{
+			"Id": "Part30",
+			"Name": "胸　←"
+		},
+		{
+			"Id": "Part40",
+			"Name": "肩服"
+		},
+		{
+			"Id": "Part36",
+			"Name": "手"
+		},
+		{
+			"Id": "Part68",
+			"Name": "肩服"
+		},
+		{
+			"Id": "Part69",
+			"Name": "手"
+		},
+		{
+			"Id": "Part39",
+			"Name": "足"
+		},
+		{
+			"Id": "Part43",
+			"Name": "膝"
+		},
+		{
+			"Id": "Part44",
+			"Name": "太腿"
+		},
+		{
+			"Id": "Part56",
+			"Name": "ヒール"
+		},
+		{
+			"Id": "Part45",
+			"Name": "下腿"
+		},
+		{
+			"Id": "Part98",
+			"Name": "ヒレ　二段目"
+		},
+		{
+			"Id": "Part99",
+			"Name": "ヒレ　4段目"
+		},
+		{
+			"Id": "Part100",
+			"Name": "ヒレ　5段目2"
+		},
+		{
+			"Id": "Part101",
+			"Name": "ヒレ　5段目"
+		},
+		{
+			"Id": "Part102",
+			"Name": "触手ヒレ"
+		},
+		{
+			"Id": "Part91",
+			"Name": "ヒレ　二段目"
+		},
+		{
+			"Id": "Part92",
+			"Name": "ヒレ　4段目"
+		},
+		{
+			"Id": "Part95",
+			"Name": "ヒレ　5段目2"
+		},
+		{
+			"Id": "Part94",
+			"Name": "ヒレ　5段目"
+		},
+		{
+			"Id": "Part93",
+			"Name": "触手ヒレ"
+		},
+		{
+			"Id": "Part51",
+			"Name": "膝"
+		},
+		{
+			"Id": "Part52",
+			"Name": "太腿"
+		},
+		{
+			"Id": "Part59",
+			"Name": "ヒール"
+		},
+		{
+			"Id": "Part53",
+			"Name": "下腿"
+		},
+		{
+			"Id": "Part57",
+			"Name": "ヒール前"
+		},
+		{
+			"Id": "Part58",
+			"Name": "フォルダー 20"
+		},
+		{
+			"Id": "Part60",
+			"Name": "ヒール前"
+		},
+		{
+			"Id": "Part61",
+			"Name": "フォルダー 20"
+		}
+	]
+}

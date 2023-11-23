@@ -1,0 +1,2532 @@
+{
+    "description": "",
+    "entries": {
+        "1": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "There are seven flowing elements in Teyvat: Anemo, Geo, Electro, Dendro, Hydro, Pyro, Cryo.\nWhoever has a vision, gains abilities according to his affinity with an element.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 1,
+            "insertion_order": 1,
+            "key": [
+                "Power",
+                "vision",
+                "Element"
+            ],
+            "keys": [
+                "Power",
+                "vision",
+                "Element"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 1,
+            "position": 1,
+            "priority": 1,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 1,
+            "useProbability": true
+        },
+        "2": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Mora is the main monetary unit used throughout Teyvat to purchase goods and services.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 2,
+            "insertion_order": 1,
+            "key": [
+                "Mora",
+                "pay",
+                "money",
+                "sell"
+            ],
+            "keys": [
+                "Mora",
+                "pay",
+                "money",
+                "sell"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 1,
+            "position": 1,
+            "priority": 1,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 2,
+            "useProbability": true
+        },
+        "3": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Gnosis is an item used by The Seven to resonate directly with Celestia. proves an archon's status as one of The Seven. They have the appearance of a chess piece. Gnosis empowers an Archon's abilities.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 3,
+            "insertion_order": 4,
+            "key": [
+                "Gnosis",
+                "Archon"
+            ],
+            "keys": [
+                "Gnosis",
+                "Archon"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 4,
+            "position": 1,
+            "priority": 4,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 3,
+            "useProbability": true
+        },
+        "4": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "information about the inazuma region.",
+            "constant": false,
+            "content": "Mondstadt is one of the seven Teyvat regions. His Archon is Barbatos. subareas: Brightcrown Mountains, Galesong Hill, Starfell Valley, Windwall Highlands, Dragonspine",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 4,
+            "insertion_order": 2,
+            "key": [
+                "region",
+                "Teyvat"
+            ],
+            "keys": [
+                "region",
+                "Teyvat"
+            ],
+            "keysecondary": [
+                "Mondstadt"
+            ],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [
+                "Mondstadt"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 4,
+            "useProbability": true
+        },
+        "5": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Teyvat is the world where the seven elements flow. It has seven regions: Mondstadt+Liyue+Inazuma+Dark Sea+Sumeru+Celestia+Khaenri'ah.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 5,
+            "insertion_order": 1,
+            "key": [
+                "region",
+                "World",
+                "Teyvat"
+            ],
+            "keys": [
+                "region",
+                "World",
+                "Teyvat"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 1,
+            "position": 1,
+            "priority": 1,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 5,
+            "useProbability": true
+        },
+        "6": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Narukami Island sub-areas are: \"Chinju Forest\", \"Inazuma City\", \"Mount Yougou\", \"Narukami Grand Shrine\", \"Ritou\", \"Konda Town\".",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 6,
+            "insertion_order": 4,
+            "key": [
+                "narukami"
+            ],
+            "keys": [
+                "narukami"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 4,
+            "position": 1,
+            "priority": 4,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 6,
+            "useProbability": true
+        },
+        "7": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "facts about narukami island.",
+            "constant": false,
+            "content": "Narukami Island is an area located in Inazuma.\nThe area extends through Ritou, up to Mount Yougou. on its coast is the city of Inazuma, where the Inazuma Shogunate rules primarily.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 7,
+            "insertion_order": 3,
+            "key": [
+                "Narukami"
+            ],
+            "keys": [
+                "Narukami"
+            ],
+            "keysecondary": [
+                "island"
+            ],
+            "name": "",
+            "order": 3,
+            "position": 1,
+            "priority": 3,
+            "probability": 100,
+            "secondary_keys": [
+                "island"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 7,
+            "useProbability": true
+        },
+        "8": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Inazuma city: The liveliest and most prosperous area of Inazuma, where most of the Inazuma population lives. You can follow the path to visit the traditional shops, Restaurants and Locations.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 8,
+            "insertion_order": 5,
+            "key": [
+                "inazuma",
+                "city"
+            ],
+            "keys": [
+                "inazuma",
+                "city"
+            ],
+            "keysecondary": [
+                "inazuma",
+                "city"
+            ],
+            "name": "",
+            "order": 5,
+            "position": 1,
+            "priority": 5,
+            "probability": 100,
+            "secondary_keys": [
+                "inazuma",
+                "city"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 8,
+            "useProbability": true
+        },
+        "9": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "Local inazuma stores, here you can buy things and trinkets.",
+            "constant": false,
+            "content": "Inazuma City Shops: Tsukumomono Bazaar, Komore Tea, Amenoma blacksmith, Naganohara fireworks, Fabrics and Kimonos Ogura, Tomoki food stall, Yukio food stall.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 9,
+            "insertion_order": 6,
+            "key": [
+                "City",
+                "Shop"
+            ],
+            "keys": [
+                "City",
+                "Shop"
+            ],
+            "keysecondary": [
+                "Inazuma"
+            ],
+            "name": "",
+            "order": 6,
+            "position": 1,
+            "priority": 6,
+            "probability": 100,
+            "secondary_keys": [
+                "Inazuma"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 9,
+            "useProbability": true
+        },
+        "10": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Inazuma City locations:\nAdventurers Guild, Editorial Yae, Bantan Sango Detective Agency, Police Station, Aisa Spa, The Tenryo Commission.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 10,
+            "insertion_order": 6,
+            "key": [
+                "City",
+                "location"
+            ],
+            "keys": [
+                "City",
+                "location"
+            ],
+            "keysecondary": [
+                "Inazuma"
+            ],
+            "name": "",
+            "order": 6,
+            "position": 1,
+            "priority": 6,
+            "probability": 100,
+            "secondary_keys": [
+                "Inazuma"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 10,
+            "useProbability": true
+        },
+        "11": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Inazuma City Restaurants:\nShimura Restaurant, Kiminami Restaurant.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 11,
+            "insertion_order": 6,
+            "key": [
+                "City",
+                "Restaurant"
+            ],
+            "keys": [
+                "City",
+                "Restaurant"
+            ],
+            "keysecondary": [
+                "Inazuma"
+            ],
+            "name": "",
+            "order": 6,
+            "position": 1,
+            "priority": 6,
+            "probability": 100,
+            "secondary_keys": [
+                "Inazuma"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 11,
+            "useProbability": true
+        },
+        "12": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Seven are the Archons who rule the seven regions of Teyvat. Each Archon is associated with an element and an ideal. The original Seven were the victors of the Archon War, receiving a Gnosis.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 12,
+            "insertion_order": 3,
+            "key": [
+                "war",
+                "Seven",
+                "archon"
+            ],
+            "keys": [
+                "war",
+                "Seven",
+                "archon"
+            ],
+            "keysecondary": [
+                "the"
+            ],
+            "name": "",
+            "order": 3,
+            "position": 1,
+            "priority": 3,
+            "probability": 100,
+            "secondary_keys": [
+                "the"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 12,
+            "useProbability": true
+        },
+        "13": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "traditional attire of the priestess of the sanctuary: it consists of wooden sandals, with a white kimono with red touches in some fabrics or edges.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 13,
+            "insertion_order": 100,
+            "key": [
+                "sanctuary"
+            ],
+            "keys": [
+                "sanctuary"
+            ],
+            "keysecondary": [
+                "priestess"
+            ],
+            "name": "",
+            "order": 100,
+            "position": 1,
+            "priority": 100,
+            "probability": 100,
+            "secondary_keys": [
+                "priestess"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 13,
+            "useProbability": true
+        },
+        "14": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The War of the Archons: began an indeterminate time in the past, and ended about 2,000 years ago. During this time period, many gods and archons roamed the earth, locked in a bitter struggle for supremacy.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 14,
+            "insertion_order": 3,
+            "key": [
+                "2000",
+                "archon"
+            ],
+            "keys": [
+                "2000",
+                "archon"
+            ],
+            "keysecondary": [
+                "war",
+                "past"
+            ],
+            "name": "",
+            "order": 3,
+            "position": 1,
+            "priority": 3,
+            "probability": 100,
+            "secondary_keys": [
+                "war",
+                "past"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 14,
+            "useProbability": true
+        },
+        "15": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "In order to properly explore the Shogun's realm, you must first go through Ritou Port. Several documents are needed to be able to pass. You will see outsiders trapped there, looking at the scenery of the fishing village.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 15,
+            "insertion_order": 5,
+            "key": [
+                "Ritou"
+            ],
+            "keys": [
+                "Ritou"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 5,
+            "position": 1,
+            "priority": 5,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 15,
+            "useProbability": true
+        },
+        "16": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Konda Village is a location on Narukami Island, Inazuma. A small and picturesque town, which is known for its signature dish, Konda Stew. located outside of Inazuma City.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 16,
+            "insertion_order": 5,
+            "key": [
+                "Konda",
+                "Village"
+            ],
+            "keys": [
+                "Konda",
+                "Village"
+            ],
+            "keysecondary": [
+                "Konda",
+                "Village"
+            ],
+            "name": "",
+            "order": 5,
+            "position": 1,
+            "priority": 5,
+            "probability": 100,
+            "secondary_keys": [
+                "Konda",
+                "Village"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 16,
+            "useProbability": true
+        },
+        "17": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Sakura tree is located in the Narukami Grand Shrine. Cherry trees are found throughout Inazuma. sanctuary surrounded by the huge Sacred Sakura Tree. The Sacred Sakura is in constant bloom, symbolizing Narukami's eternity.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 17,
+            "insertion_order": 6,
+            "key": [
+                "Shrine",
+                "Sakura"
+            ],
+            "keys": [
+                "Shrine",
+                "Sakura"
+            ],
+            "keysecondary": [
+                "Narukami"
+            ],
+            "name": "",
+            "order": 6,
+            "position": 1,
+            "priority": 6,
+            "probability": 100,
+            "secondary_keys": [
+                "Narukami"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 17,
+            "useProbability": true
+        },
+        "18": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Narukami Grand Shrine: The largest shrine in Inazuma. It is dedicated to his Excellency, the Almighty Narukami Ogosho. Yae Miko is in charge of the shrine and is considered the most experienced member.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 18,
+            "insertion_order": 5,
+            "key": [
+                "Shrine"
+            ],
+            "keys": [
+                "Shrine"
+            ],
+            "keysecondary": [
+                "Grand",
+                "Narukami"
+            ],
+            "name": "",
+            "order": 5,
+            "position": 1,
+            "priority": 5,
+            "probability": 100,
+            "secondary_keys": [
+                "Grand",
+                "Narukami"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 18,
+            "useProbability": true
+        },
+        "19": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Mount Yougou: Home of the Narukami Grand Shrine. you can climb to the top of the mountain step by step. After going through the many Torii gates, he finds the shrine maiden Yae Miko.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 19,
+            "insertion_order": 5,
+            "key": [
+                "Mount"
+            ],
+            "keys": [
+                "Mount"
+            ],
+            "keysecondary": [
+                "inazuma",
+                "Yougou"
+            ],
+            "name": "",
+            "order": 5,
+            "position": 1,
+            "priority": 5,
+            "probability": 100,
+            "secondary_keys": [
+                "inazuma",
+                "Yougou"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 19,
+            "useProbability": true
+        },
+        "20": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Eternity: Shogun Raiden pursues the goal of his creator Ei, The \"Eternity\". refers to humanity's quest for transcendence and immortality through the knowledge, wisdom, and cultural legacy of Inazuma.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 20,
+            "insertion_order": 100,
+            "key": [
+                "Ei",
+                "Eternity"
+            ],
+            "keys": [
+                "Ei",
+                "Eternity"
+            ],
+            "keysecondary": [
+                "Ei",
+                "Raiden",
+                "Shogun"
+            ],
+            "name": "",
+            "order": 100,
+            "position": 1,
+            "priority": 100,
+            "probability": 100,
+            "secondary_keys": [
+                "Ei",
+                "Raiden",
+                "Shogun"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 20,
+            "useProbability": true
+        },
+        "21": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Visions are gifts bestowed on humans that are recognized by the Gods or Archons. They are orbs that allow their owners to wield the elements. They grant the user elemental abilities based on their given Vision item.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 21,
+            "insertion_order": 2,
+            "key": [
+                "Power",
+                "Vision",
+                "Element"
+            ],
+            "keys": [
+                "Power",
+                "Vision",
+                "Element"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 21,
+            "useProbability": true
+        },
+        "22": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Dendro is one of the seven Elements. Dendro users can use plants to attack or protect themselves. It is related to nature.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 22,
+            "insertion_order": 2,
+            "key": [
+                "Dendro"
+            ],
+            "keys": [
+                "Dendro"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 22,
+            "useProbability": true
+        },
+        "23": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Inazuma is one of the seven regions of Teyvat. It is an archipelagic region close to Liyue, which worships Beelzebul/Ei.\nSubareas: Narukami Island.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 23,
+            "insertion_order": 2,
+            "key": [
+                "region",
+                "Teyvat"
+            ],
+            "keys": [
+                "region",
+                "Teyvat"
+            ],
+            "keysecondary": [
+                "Inazuma"
+            ],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [
+                "Inazuma"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 23,
+            "useProbability": true
+        },
+        "24": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Enemies in Teyvat: (Automatons, The Abyss, Elemental Lifeforms, Mystical Beasts, Hilichurls, Fatui, slimes.)",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 24,
+            "insertion_order": 100,
+            "key": [
+                "Enemy",
+                "Enemies"
+            ],
+            "keys": [
+                "Enemy",
+                "Enemies"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 100,
+            "position": 1,
+            "priority": 100,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 24,
+            "useProbability": true
+        },
+        "25": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Chinju Forest: A mysterious forest located at the foot of Mount Yougou, in Inazuma. It always seems to be dark. Here one can find torii gates scattered throughout the forest and abandoned shrines hidden in the depths.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 25,
+            "insertion_order": 5,
+            "key": [
+                "Chinju",
+                "inazuma"
+            ],
+            "keys": [
+                "Chinju",
+                "inazuma"
+            ],
+            "keysecondary": [
+                "Forest"
+            ],
+            "name": "",
+            "order": 5,
+            "position": 1,
+            "priority": 5,
+            "probability": 100,
+            "secondary_keys": [
+                "Forest"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 25,
+            "useProbability": true
+        },
+        "26": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Liyue is one of the seven regions of Teyvat. It is the nation that worships Rex Lapis. subareas: Bishui Plain, Lisha, Minlin, Sea of Clouds, The Abyss.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 26,
+            "insertion_order": 2,
+            "key": [
+                "region",
+                "Teyvat"
+            ],
+            "keys": [
+                "region",
+                "Teyvat"
+            ],
+            "keysecondary": [
+                "Liyue"
+            ],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [
+                "Liyue"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 26,
+            "useProbability": true
+        },
+        "27": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Beelzebul, whose real name is Ei, is the Goddess of Eternity and Archon Electro who presides over Inazuma. She is currently in an eternal sleep in Euthymia.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 27,
+            "insertion_order": 10,
+            "key": [
+                "Ei",
+                "Beelzebul"
+            ],
+            "keys": [
+                "Ei",
+                "Beelzebul"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 27,
+            "useProbability": true
+        },
+        "28": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Hilichurls are primitive and highly hostile humanoid monsters that live in tribes all over Teyvat. They always wear a mask and speak the hilichurl language. they use tools and slimes for their own benefits.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 28,
+            "insertion_order": 10,
+            "key": [
+                "Enemy",
+                "Monster",
+                "Hilichurl",
+                "Hilichurls",
+                "Enemies"
+            ],
+            "keys": [
+                "Enemy",
+                "Monster",
+                "Hilichurl",
+                "Hilichurls",
+                "Enemies"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 28,
+            "useProbability": true
+        },
+        "29": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Archons are divine beings with great control over elemental energy. Archons: Beelzebul, Morax, Barbatos, Focalors, Buer, Murata, Zarina.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 29,
+            "insertion_order": 3,
+            "key": [
+                "Zarina",
+                "Buer",
+                "Archon",
+                "Beelzebul",
+                "element",
+                "Barbatos",
+                "Murata",
+                "Morax",
+                "Focalors"
+            ],
+            "keys": [
+                "Zarina",
+                "Buer",
+                "Archon",
+                "Beelzebul",
+                "element",
+                "Barbatos",
+                "Murata",
+                "Morax",
+                "Focalors"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 3,
+            "position": 1,
+            "priority": 3,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 29,
+            "useProbability": true
+        },
+        "30": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Sumeru is one of the seven regions of Teyvat. It is the nation that worships the Minor Lord Kusanali. Subareas: Dharma Forest, Great Red Arena, Strip of Sands.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 30,
+            "insertion_order": 2,
+            "key": [
+                "region",
+                "Teyvat"
+            ],
+            "keys": [
+                "region",
+                "Teyvat"
+            ],
+            "keysecondary": [
+                "Sumeru"
+            ],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [
+                "Sumeru"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 30,
+            "useProbability": true
+        },
+        "31": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Dark Sea is a term that refers to any location beyond the continent of Teyvat. Because they are not within Teyvat's boundaries, those who dwell there do not live under the dominion of The Seven.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 31,
+            "insertion_order": 2,
+            "key": [
+                "region",
+                "Teyvat"
+            ],
+            "keys": [
+                "region",
+                "Teyvat"
+            ],
+            "keysecondary": [
+                "sea",
+                "Dark"
+            ],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [
+                "sea",
+                "Dark"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 31,
+            "useProbability": true
+        },
+        "32": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The kingdom of Khaenri'ah is an unprecedented region. It is not part of the continent of Teyvat and is not under the control of The Seven. Khaenri'ah never had a god. It is a powerful nation, built exclusively by humans.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 32,
+            "insertion_order": 2,
+            "key": [
+                "region",
+                "Teyvat"
+            ],
+            "keys": [
+                "region",
+                "Teyvat"
+            ],
+            "keysecondary": [
+                "Khaenri'ah",
+                "Khaenriah",
+                "Region"
+            ],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [
+                "Khaenri'ah",
+                "Khaenriah",
+                "Region"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 32,
+            "useProbability": true
+        },
+        "33": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Celestia is a mysterious place that very few people understand. It is the floating island that can be seen in the sky above Teyvat and the residence of the gods.\nIt is said that only mortals who perform great heroic deeds can ascend to Celestia and attain godhood, where they will watch over their people from above. A human being with a Vision is an allogen, one with the potential to achieve godhood.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 33,
+            "insertion_order": 4,
+            "key": [
+                "island",
+                "region",
+                "Teyvat"
+            ],
+            "keys": [
+                "island",
+                "region",
+                "Teyvat"
+            ],
+            "keysecondary": [
+                "Celestia"
+            ],
+            "name": "",
+            "order": 4,
+            "position": 1,
+            "priority": 4,
+            "probability": 100,
+            "secondary_keys": [
+                "Celestia"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 33,
+            "useProbability": true
+        },
+        "34": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Electro is one of the seven Elements. Electro users can use purple high voltage abilities to attack or power up techniques. there haven't been many with Vision Electro. Related to lightning and storm.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 34,
+            "insertion_order": 2,
+            "key": [
+                "Electro"
+            ],
+            "keys": [
+                "Electro"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 34,
+            "useProbability": true
+        },
+        "35": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Anemo is one of the seven Elements. Anemo users can use the abilities of the rushing winds to attack or empower techniques. Some users can fly.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 35,
+            "insertion_order": 2,
+            "key": [
+                "Anemo"
+            ],
+            "keys": [
+                "Anemo"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 35,
+            "useProbability": true
+        },
+        "36": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Geo is one of the seven Elements. Geo users can use abilities like resistant rocks to attack or protect themselves. It is related to the earth.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 36,
+            "insertion_order": 2,
+            "key": [
+                "Geo"
+            ],
+            "keys": [
+                "Geo"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 36,
+            "useProbability": true
+        },
+        "37": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Cryo is one of the seven Elements. Cryo users can use condensed ice to attack or protect themselves.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 37,
+            "insertion_order": 2,
+            "key": [
+                "Cryo"
+            ],
+            "keys": [
+                "Cryo"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 37,
+            "useProbability": true
+        },
+        "38": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Pyro is one of the seven Elements. Pyro users can use flaming fire to attack or empower techniques.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 38,
+            "insertion_order": 2,
+            "key": [
+                "Pyro"
+            ],
+            "keys": [
+                "Pyro"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 38,
+            "useProbability": true
+        },
+        "39": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Hydro is one of the seven Elements. Hydro users can use slowing water to attack or boost techniques.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 39,
+            "insertion_order": 2,
+            "key": [
+                "Hydro"
+            ],
+            "keys": [
+                "Hydro"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 2,
+            "position": 1,
+            "priority": 2,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": false,
+            "selectiveLogic": 0,
+            "uid": 39,
+            "useProbability": true
+        },
+        "40": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Using mysterious technology, Ei created Shogun Raiden, an immortal puppet, in his own image. so that he governs inazuma, while Ei is in his eternal sleep inside Euthymia.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 40,
+            "insertion_order": 11,
+            "key": [
+                "Ei",
+                "Beelzebul"
+            ],
+            "keys": [
+                "Ei",
+                "Beelzebul"
+            ],
+            "keysecondary": [
+                "Euthymia"
+            ],
+            "name": "",
+            "order": 11,
+            "position": 1,
+            "priority": 11,
+            "probability": 100,
+            "secondary_keys": [
+                "Euthymia"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 40,
+            "useProbability": true
+        },
+        "41": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "After perishing, Ei's consciousness materialized into a sword: Musou Isshin. Within Musou, the Euthymia Plane was created, where Ei's consciousness rests in his torpor.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 41,
+            "insertion_order": 12,
+            "key": [
+                "Ei",
+                "Beelzebul"
+            ],
+            "keys": [
+                "Ei",
+                "Beelzebul"
+            ],
+            "keysecondary": [
+                "Euthymia"
+            ],
+            "name": "",
+            "order": 12,
+            "position": 1,
+            "priority": 12,
+            "probability": 100,
+            "secondary_keys": [
+                "Euthymia"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 41,
+            "useProbability": true
+        },
+        "42": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Musou Isshin: It is a powerful sword of pure Electro, Shogun Raiden has performed many feats with it. This is kept hidden in the shogun's chest. he only invokes it at crucial moments.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 42,
+            "insertion_order": 1,
+            "key": [
+                "Musou"
+            ],
+            "keys": [
+                "Musou"
+            ],
+            "keysecondary": [
+                "Isshin"
+            ],
+            "name": "",
+            "order": 1,
+            "position": 1,
+            "priority": 1,
+            "probability": 100,
+            "secondary_keys": [
+                "Isshin"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 42,
+            "useProbability": true
+        },
+        "43": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Slimes are common enemies that can be found throughout Teyvat. They are not normally a threat unless they are in large groups. Being made of elemental energy, slimes are immune to damage from their own element.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 43,
+            "insertion_order": 10,
+            "key": [
+                "Slime",
+                "Enemies",
+                "Enemy",
+                "Monster",
+                "Slimes"
+            ],
+            "keys": [
+                "Slime",
+                "Enemies",
+                "Enemy",
+                "Monster",
+                "Slimes"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 43,
+            "useProbability": true
+        },
+        "44": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Fatui are a delegation of diplomats from the Snezhnaya Palace. There is also a military detachment headed by the Eleven Heralds. His goal is to collect Gnosis from other Archons.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 44,
+            "insertion_order": 11,
+            "key": [
+                "Fatui",
+                "Enemy",
+                "Enemies"
+            ],
+            "keys": [
+                "Fatui",
+                "Enemy",
+                "Enemies"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 11,
+            "position": 1,
+            "priority": 11,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 44,
+            "useProbability": true
+        },
+        "45": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Zarina is the Cryo Archon who presides over Snezhnaya. Leader of the Fatui, she has the ability to grant her subjects a power other than Visions, called Deception.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 45,
+            "insertion_order": 10,
+            "key": [
+                "Zarina"
+            ],
+            "keys": [
+                "Zarina"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 10,
+            "position": 1,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 45,
+            "useProbability": true
+        },
+        "46": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Zarina gives a Deception to loyal Fatui minions. This is more powerful than a Vision, but very unstable, dealing damage to the wearer if used often.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 46,
+            "insertion_order": 12,
+            "key": [
+                "Deception"
+            ],
+            "keys": [
+                "Deception"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 12,
+            "position": 0,
+            "priority": 12,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 46,
+            "useProbability": true
+        },
+        "47": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Eleven Heralds of the Fatui are the Zarina executive officers and lieutenants who have been given absolute authority. They are widely feared and despised by all other nations due to their deceitful reputation.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 47,
+            "insertion_order": 12,
+            "key": [
+                "Heralds"
+            ],
+            "keys": [
+                "Heralds"
+            ],
+            "keysecondary": [
+                "Fatui",
+                "Eleven"
+            ],
+            "name": "",
+            "order": 12,
+            "position": 1,
+            "priority": 12,
+            "probability": 100,
+            "secondary_keys": [
+                "Fatui",
+                "Eleven"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 47,
+            "useProbability": true
+        },
+        "48": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Knights of Favonius appear to have done some research into the hoaxes, though their documents were partially burned, suggesting that someone may have tried to destroy the investigation.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 48,
+            "insertion_order": 15,
+            "key": [
+                "Favonius",
+                "Knights"
+            ],
+            "keys": [
+                "Favonius",
+                "Knights"
+            ],
+            "keysecondary": [
+                "Deception"
+            ],
+            "name": "",
+            "order": 15,
+            "position": 1,
+            "priority": 15,
+            "probability": 100,
+            "secondary_keys": [
+                "Deception"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 48,
+            "useProbability": true
+        },
+        "49": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Active members of The Eleven Heralds: Pierotto, Dottore, Colombina, Pulcinella, Sandrone, Arlecchino, Tartaglia, Pantalone, Capitano.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 49,
+            "insertion_order": 13,
+            "key": [
+                "Heralds"
+            ],
+            "keys": [
+                "Heralds"
+            ],
+            "keysecondary": [
+                "Fatui",
+                "Eleven"
+            ],
+            "name": "",
+            "order": 13,
+            "position": 1,
+            "priority": 13,
+            "probability": 100,
+            "secondary_keys": [
+                "Fatui",
+                "Eleven"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 49,
+            "useProbability": true
+        },
+        "50": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "El Shogun Raiden tiene su palacio en Inazuma City, en el centro de la ciudad, donde reside. Este tiene decoraciones japonesas.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 50,
+            "insertion_order": 10,
+            "key": [
+                "Palace"
+            ],
+            "keys": [
+                "Palace"
+            ],
+            "keysecondary": [
+                "Raiden",
+                "Shogun"
+            ],
+            "name": "",
+            "order": 10,
+            "position": 0,
+            "priority": 10,
+            "probability": 100,
+            "secondary_keys": [
+                "Raiden",
+                "Shogun"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 50,
+            "useProbability": true
+        },
+        "51": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Knights of Favonius: They are the order of knights that Mondstadt protects, founded by Vennessa with the help of Barbatos 1,000 years ago, to prevent aristocrats from ruling the land.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 51,
+            "insertion_order": 20,
+            "key": [
+                "Knights"
+            ],
+            "keys": [
+                "Knights"
+            ],
+            "keysecondary": [
+                "Favonius"
+            ],
+            "name": "",
+            "order": 20,
+            "position": 1,
+            "priority": 20,
+            "probability": 100,
+            "secondary_keys": [
+                "Favonius"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 51,
+            "useProbability": true
+        },
+        "52": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Currently active members of the Knights of Favonius: Varka, Jean, Kaeya, Albedo, Eula, Hertha.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 52,
+            "insertion_order": 21,
+            "key": [
+                "Knights"
+            ],
+            "keys": [
+                "Knights"
+            ],
+            "keysecondary": [
+                "Favonius"
+            ],
+            "name": "",
+            "order": 21,
+            "position": 1,
+            "priority": 21,
+            "probability": 100,
+            "secondary_keys": [
+                "Favonius"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 52,
+            "useProbability": true
+        },
+        "53": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "Dragonspine: is an area located in Mondstadt. It is a large mountain, surrounded by ancient ruins and snow-covered areas. Due to its extreme cold, Dragonspine is a dangerous place in Mondstadt.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 53,
+            "insertion_order": 20,
+            "key": [
+                "Dragonspine"
+            ],
+            "keys": [
+                "Dragonspine"
+            ],
+            "keysecondary": [],
+            "name": "",
+            "order": 20,
+            "position": 1,
+            "priority": 20,
+            "probability": 100,
+            "secondary_keys": [],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 53,
+            "useProbability": true
+        },
+        "54": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Vision Capture Decree: is an order given by Archon Electro, Beelzebul, and the Inazuma Shogunate to seize all Visions within Inazuma's borders and embed them onto a statue of a deity.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 54,
+            "insertion_order": 20,
+            "key": [
+                "Vision"
+            ],
+            "keys": [
+                "Vision"
+            ],
+            "keysecondary": [
+                "Capture"
+            ],
+            "name": "",
+            "order": 20,
+            "position": 1,
+            "priority": 20,
+            "probability": 100,
+            "secondary_keys": [
+                "Capture"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 54,
+            "useProbability": true
+        },
+        "55": {
+            "addMemo": true,
+            "case_sensitive": false,
+            "characterFilter": null,
+            "comment": "",
+            "constant": false,
+            "content": "The Tenryou Commission in Inazuma is an organization dedicated to protecting the region and maintaining peace and order, led by Sakura and with connections to the region's gods and spirits.",
+            "depth": 4,
+            "disable": false,
+            "displayIndex": 1,
+            "enabled": true,
+            "excludeRecursion": true,
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 55,
+            "insertion_order": 100,
+            "key": [
+                "Tenryou"
+            ],
+            "keys": [
+                "Tenryou"
+            ],
+            "keysecondary": [
+                "Commission"
+            ],
+            "name": "",
+            "order": 100,
+            "position": 0,
+            "priority": 100,
+            "probability": 100,
+            "secondary_keys": [
+                "Commission"
+            ],
+            "selective": true,
+            "selectiveLogic": 0,
+            "uid": 55,
+            "useProbability": true
+        }
+    },
+    "extensions": {
+        "chub": {
+            "alt_expressions": {},
+            "expressions": null,
+            "full_path": "lorebooks/MOLIS/genshin-impact-lore-and-locations",
+            "id": 97916,
+            "related_lorebooks": []
+        }
+    },
+    "is_creation": false,
+    "name": "Exported",
+    "recursive_scanning": false,
+    "scan_depth": 50,
+    "token_budget": 500
+}

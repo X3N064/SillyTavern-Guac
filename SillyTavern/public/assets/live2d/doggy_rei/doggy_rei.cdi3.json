@@ -1,0 +1,279 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup4",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamEyeForm",
+			"GroupId": "ParamGroup",
+			"Name": "Eye Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamMouthX",
+			"GroupId": "ParamGroup",
+			"Name": "MouthX"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup5",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup5",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup5",
+			"Name": "Hair Move Back"
+		},
+		{
+			"Id": "ParamHairBack2",
+			"GroupId": "ParamGroup5",
+			"Name": "Hair Move Back"
+		},
+		{
+			"Id": "Paramxxxf",
+			"GroupId": "ParamGroup5",
+			"Name": "小髮1"
+		},
+		{
+			"Id": "Paramxxxf2",
+			"GroupId": "ParamGroup5",
+			"Name": "小髮1"
+		},
+		{
+			"Id": "Paramxxf",
+			"GroupId": "ParamGroup5",
+			"Name": "小髮2"
+		},
+		{
+			"Id": "Paramxxf2",
+			"GroupId": "ParamGroup5",
+			"Name": "小髮2"
+		},
+		{
+			"Id": "Paramdreeee",
+			"GroupId": "ParamGroup5",
+			"Name": "裝飾1"
+		},
+		{
+			"Id": "Paramdreeee2",
+			"GroupId": "ParamGroup5",
+			"Name": "裝飾1"
+		},
+		{
+			"Id": "Parambbhairx",
+			"GroupId": "ParamGroup5",
+			"Name": "后髪x"
+		},
+		{
+			"Id": "Parambbhairx2",
+			"GroupId": "ParamGroup5",
+			"Name": "后髪x"
+		},
+		{
+			"Id": "Parambbhairy",
+			"GroupId": "ParamGroup5",
+			"Name": "后髪y"
+		},
+		{
+			"Id": "Parambbhairy2",
+			"GroupId": "ParamGroup5",
+			"Name": "后髪y"
+		},
+		{
+			"Id": "ParammimiL",
+			"GroupId": "ParamGroup5",
+			"Name": "mimiL"
+		},
+		{
+			"Id": "ParammimiL2",
+			"GroupId": "ParamGroup5",
+			"Name": "mimiL"
+		},
+		{
+			"Id": "ParammimiR",
+			"GroupId": "ParamGroup5",
+			"Name": "mimiR"
+		},
+		{
+			"Id": "ParammimiR2",
+			"GroupId": "ParamGroup5",
+			"Name": "mimiR"
+		},
+		{
+			"Id": "Paramclothhh",
+			"GroupId": "ParamGroup5",
+			"Name": "衣服"
+		},
+		{
+			"Id": "Paramclothhh2",
+			"GroupId": "ParamGroup5",
+			"Name": "衣服"
+		},
+		{
+			"Id": "ParamClyyy",
+			"GroupId": "ParamGroup5",
+			"Name": "衣服Y"
+		},
+		{
+			"Id": "ParamClyyy2",
+			"GroupId": "ParamGroup5",
+			"Name": "衣服Y"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh24",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh24",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh24",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh24",
+			"GroupId": "ParamGroup3",
+			"Name": "[3]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh24",
+			"GroupId": "ParamGroup3",
+			"Name": "[4]尾巴"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Angle"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Face"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Physic"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "尾巴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "前发"
+		},
+		{
+			"Id": "mimi",
+			"Name": "mimi"
+		},
+		{
+			"Id": "Part2",
+			"Name": "臉"
+		},
+		{
+			"Id": "Part3",
+			"Name": "身体"
+		},
+		{
+			"Id": "Mouth",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "Eyes",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "Body",
+			"Name": "Body"
+		},
+		{
+			"Id": "Back",
+			"Name": "Back"
+		},
+		{
+			"Id": "ArtMesh24_Skinning",
+			"Name": "尾巴(Skinning)"
+		},
+		{
+			"Id": "Part5",
+			"Name": "尾巴(Rotation)"
+		}
+	]
+}

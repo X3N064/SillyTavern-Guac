@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "henoheno.moc3",
+		"Textures": [
+			"henoheno.2048/texture_00.png"
+		],
+		"DisplayInfo": "henoheno.cdi3.json"
+	}
+}

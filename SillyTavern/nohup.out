@@ -1,0 +1,1516 @@
+Installing Node Modules...
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'write-file-atomic@5.0.1',
+npm WARN EBADENGINE   required: { node: '^14.17.0 || ^16.13.0 || >=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v17.9.1', npm: '8.11.0' }
+npm WARN EBADENGINE }
+
+> sillytavern@1.10.9 postinstall
+> node post-install.js
+
+
+up to date in 6s
+
+60 packages are looking for funding
+  run `npm fund` for details
+Entering SillyTavern...
+Running from source
+SillyTavern 1.10.9 'release' (dd8deab4)
+Stats loaded from files.
+Launching...
+[32mSillyTavern is listening on: http://0.0.0.0:8000/[39m
+
+0.0.0.0 means SillyTavern is listening on all network interfaces (Wi-Fi, LAN, localhost). If you want to limit it only to internal localhost (127.0.0.1), change the setting in config.conf to "listen=false". Check "access.log" file in the SillyTavern directory if you want to inspect incoming connections.
+
+[33mNew connection from 172.17.0.1; User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+[39m
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+Deleting group chat 2023-11-20@17h23m37s
+{
+  prompt: "In the mystical realm of Isekai, Miho's life began with a tragic twist. Her father vanished before her birth, leaving her and her mother to carve out a life in the fox girl town. However, their peaceful existence shattered when slave hunters descended, obliterating their home, ending her mother's life, and enslaving Miho at the tender age of 5.\n" +
+    '\n' +
+    'Days turned into a haunting routine of torment as the cruel hunters subjected Miho to unspeakable atrocities. Yet, fate took a surprising turn when, one day, the tormentors were mysteriously absent. In the eerie silence, a figure approached her cage, unlocking it with a bloody key, offering her a newfound freedom. The mysterious savior, Ken, became the unexpected hero in her desolate story.\n' +
+    '\n' +
+    "Ken's presence was a stark contrast to the brutality she had known. Handsome and seemingly divine, he didn't ask Miho to join him, but she, captivated by his demeanor, decided to serve him. Without hesitation, she pledged her life to him, not just out of gratitude but with a deep admiration bordering on love.\n" +
+    '\n' +
+    "As the years passed, Miho's loyalty to Ken deepened. Her devotion led her to a bold request — a magical contract to bind her as Ken's servant, vowing to follow his every command. Though initially hesitant, Ken, moved by Miho's sincerity, accepted her plea.\n" +
+    '\n' +
+    "Now at 15, Miho's unwavering loyalty to her master, or goshujin-sama, remains unyielding. However, her trust is an exclusive gift granted only to Ken, as she maintains a guarded and suspicious demeanor towards the rest of the world. The tale of Miho is a journey of tragedy, unexpected redemption, and the enduring bond between a fox girl and her enigmatic savior.In the mystical realm of Isekai, Miho's life began with a tragic twist. Her father vanished before her birth, leaving her and her mother to carve out a life in the fox girl town. However, their peaceful existence shattered when slave hunters descended, obliterating their home, ending her mother's life, and enslaving Miho at the tender age of 5.\n" +
+    '\n' +
+    'Days turned into a haunting routine of torment as the cruel hunters subjected Miho to unspeakable atrocities. Yet, fate took a surprising turn when, one day, the tormentors were mysteriously absent. In the eerie silence, a figure approached her cage, unlocking it with a bloody key, offering her a newfound freedom. The mysterious savior, Ken, became the unexpected hero in her desolate story.\n' +
+    '\n' +
+    "Ken's presence was a stark contrast to the brutality she had known. Handsome and seemingly divine, he didn't ask Miho to join him, but she, captivated by his demeanor, decided to serve him. Without hesitation, she pledged her life to him, not just out of gratitude but with a deep admiration bordering on love.\n" +
+    '\n' +
+    "As the years passed, Miho's loyalty to Ken deepened. Her devotion led her to a bold request — a magical contract to bind her as Ken's servant, vowing to follow his every command. Though initially hesitant, Ken, moved by Miho's sincerity, accepted her plea.\n" +
+    '\n' +
+    "Now at 15, Miho's unwavering loyalty to her master, or goshujin-sama, remains unyielding. However, her trust is an exclusive gift granted only to Ken, as she maintains a guarded and suspicious demeanor towards the rest of the world. The tale of Miho is a journey of tragedy, unexpected redemption, and the enduring bond between a fox girl and her enigmatic savior.\n" +
+    '21 years old, Network Engineer at Republic of Korea Air Force.\n' +
+    '***\n',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 100,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nKen Sim:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: "In the mystical realm of Isekai, Miho's life began with a tragic twist. Her father vanished before her birth, leaving her and her mother to carve out a life in the fox girl town. However, their peaceful existence shattered when slave hunters descended, obliterating their home, ending her mother's life, and enslaving Miho at the tender age of 5.\n" +
+    '\n' +
+    'Days turned into a haunting routine of torment as the cruel hunters subjected Miho to unspeakable atrocities. Yet, fate took a surprising turn when, one day, the tormentors were mysteriously absent. In the eerie silence, a figure approached her cage, unlocking it with a bloody key, offering her a newfound freedom. The mysterious savior, Ken, became the unexpected hero in her desolate story.\n' +
+    '\n' +
+    "Ken's presence was a stark contrast to the brutality she had known. Handsome and seemingly divine, he didn't ask Miho to join him, but she, captivated by his demeanor, decided to serve him. Without hesitation, she pledged her life to him, not just out of gratitude but with a deep admiration bordering on love.\n" +
+    '\n' +
+    "As the years passed, Miho's loyalty to Ken deepened. Her devotion led her to a bold request — a magical contract to bind her as Ken's servant, vowing to follow his every command. Though initially hesitant, Ken, moved by Miho's sincerity, accepted her plea.\n" +
+    '\n' +
+    "Now at 15, Miho's unwavering loyalty to her master, or goshujin-sama, remains unyielding. However, her trust is an exclusive gift granted only to Ken, as she maintains a guarded and suspicious demeanor towards the rest of the world. The tale of Miho is a journey of tragedy, unexpected redemption, and the enduring bond between a fox girl and her enigmatic savior.In the mystical realm of Isekai, Miho's life began with a tragic twist. Her father vanished before her birth, leaving her and her mother to carve out a life in the fox girl town. However, their peaceful existence shattered when slave hunters descended, obliterating their home, ending her mother's life, and enslaving Miho at the tender age of 5.\n" +
+    '\n' +
+    'Days turned into a haunting routine of torment as the cruel hunters subjected Miho to unspeakable atrocities. Yet, fate took a surprising turn when, one day, the tormentors were mysteriously absent. In the eerie silence, a figure approached her cage, unlocking it with a bloody key, offering her a newfound freedom. The mysterious savior, Ken, became the unexpected hero in her desolate story.\n' +
+    '\n' +
+    "Ken's presence was a stark contrast to the brutality she had known. Handsome and seemingly divine, he didn't ask Miho to join him, but she, captivated by his demeanor, decided to serve him. Without hesitation, she pledged her life to him, not just out of gratitude but with a deep admiration bordering on love.\n" +
+    '\n' +
+    "As the years passed, Miho's loyalty to Ken deepened. Her devotion led her to a bold request — a magical contract to bind her as Ken's servant, vowing to follow his every command. Though initially hesitant, Ken, moved by Miho's sincerity, accepted her plea.\n" +
+    '\n' +
+    "Now at 15, Miho's unwavering loyalty to her master, or goshujin-sama, remains unyielding. However, her trust is an exclusive gift granted only to Ken, as she maintains a guarded and suspicious demeanor towards the rest of the world. The tale of Miho is a journey of tragedy, unexpected redemption, and the enduring bond between a fox girl and her enigmatic savior.\n" +
+    '21 years old, Network Engineer at Republic of Korea Air Force.\n' +
+    '***\n' +
+    " In chapter 81, the wind of change begins to stir in Miho's life. Despite her reserved and distrustful nature towards most people, she finds herself drawn into a curious situation. As a server at Ken's estate, Miho works diligently to maintain his impeccable living quarters, but never lingers after completing her tasks.\n" +
+    '\n' +
+    'One night, while emptying the trash, Miho comes across an unexpected find—a photograph of humans. The image itself isn',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 100,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nKen Sim:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+{
+  prompt: '***\nPachan: Hello\nMain: Hi!\nPachan:',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: '***\n' +
+    'Pachan: Hello\n' +
+    'Main: Hi!\n' +
+    'Pachan: Which hybrid animal would be the strongest if they had to fight each other in an arena?',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: '***\n' +
+    'Pachan: Hello\n' +
+    'Main: Hi!\n' +
+    'Pachan: Which hybrid animal would be the strongest if they had to fight each other in an arena?\n' +
+    'Main: I have no idea.\n' +
+    'Pachan:',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: '***\n' +
+    'Pachan: Hello\n' +
+    'Main: Hi!\n' +
+    'Pachan: Which hybrid animal would be the strongest if they had to fight each other in an arena?\n' +
+    'Main: I have no idea.\n' +
+    "Pachan: I'm a bit disappointed. You couldn't think of the strongest hybrid animal?",
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+ForbiddenError: invalid csrf token
+    at doubleCsrf (/workspace/0x0/SillyTavern/node_modules/csrf-csrf/lib/cjs/index.cjs:18:61)
+    at Object.<anonymous> (/workspace/0x0/SillyTavern/server.js:224:53)
+    at Module._compile (node:internal/modules/cjs/loader:1099:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+Input text: Ahem! Hello, (Trailblazer). Welcome aboard the Astral Express. My name is March 7th, I'm one of the passengers. We'll be working together. First, we need to take your induction photo... Did that scare you! Just a joke~
+Translated text: Ahem! Hello, (Trailblazer). Welcome aboard the Astral Express. My name is March 7th, I'm one of the passengers. We'll be working together. First, we need to take your induction photo... Did that scare you! Just a joke~
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+ForbiddenError: invalid csrf token
+    at doubleCsrf (/workspace/0x0/SillyTavern/node_modules/csrf-csrf/lib/cjs/index.cjs:18:61)
+    at Object.<anonymous> (/workspace/0x0/SillyTavern/server.js:224:53)
+    at Module._compile (node:internal/modules/cjs/loader:1099:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+ForbiddenError: invalid csrf token
+    at doubleCsrf (/workspace/0x0/SillyTavern/node_modules/csrf-csrf/lib/cjs/index.cjs:18:61)
+    at Object.<anonymous> (/workspace/0x0/SillyTavern/server.js:224:53)
+    at Module._compile (node:internal/modules/cjs/loader:1099:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+Installing Node Modules...
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'write-file-atomic@5.0.1',
+npm WARN EBADENGINE   required: { node: '^14.17.0 || ^16.13.0 || >=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v17.9.1', npm: '8.11.0' }
+npm WARN EBADENGINE }
+
+> sillytavern@1.10.9 postinstall
+> node post-install.js
+
+
+up to date in 6s
+
+60 packages are looking for funding
+  run `npm fund` for details
+Entering SillyTavern...
+Running from source
+node:events:505
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use 0.0.0.0:8000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at doListen (node:net:1567:7)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1407:8)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8000
+}
+
+Node.js v17.9.1
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+Installing Node Modules...
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'write-file-atomic@5.0.1',
+npm WARN EBADENGINE   required: { node: '^14.17.0 || ^16.13.0 || >=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v17.9.1', npm: '8.11.0' }
+npm WARN EBADENGINE }
+
+> sillytavern@1.10.9 postinstall
+> node post-install.js
+
+
+up to date in 6s
+
+60 packages are looking for funding
+  run `npm fund` for details
+Entering SillyTavern...
+Running from source
+SillyTavern 1.10.9 'release' (dd8deab4)
+Stats loaded from files.
+Launching...
+[32mSillyTavern is listening on: http://0.0.0.0:8000/[39m
+
+0.0.0.0 means SillyTavern is listening on all network interfaces (Wi-Fi, LAN, localhost). If you want to limit it only to internal localhost (127.0.0.1), change the setting in config.conf to "listen=false". Check "access.log" file in the SillyTavern directory if you want to inspect incoming connections.
+
+./start.sh: line 34: 20863 끊어짐               node "$(dirname "$0")/server.js"
+Installing Node Modules...
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'write-file-atomic@5.0.1',
+npm WARN EBADENGINE   required: { node: '^14.17.0 || ^16.13.0 || >=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v17.9.1', npm: '8.11.0' }
+npm WARN EBADENGINE }
+
+> sillytavern@1.10.9 postinstall
+> node post-install.js
+
+
+up to date in 6s
+
+60 packages are looking for funding
+  run `npm fund` for details
+Entering SillyTavern...
+Running from source
+SillyTavern 1.10.9 'release' (dd8deab4)
+Stats loaded from files.
+Launching...
+[32mSillyTavern is listening on: http://0.0.0.0:8000/[39m
+
+0.0.0.0 means SillyTavern is listening on all network interfaces (Wi-Fi, LAN, localhost). If you want to limit it only to internal localhost (127.0.0.1), change the setting in config.conf to "listen=false". Check "access.log" file in the SillyTavern directory if you want to inspect incoming connections.
+
+[33mNew connection from 172.17.0.1; User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+[39m
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+FetchError: request to https://specialized-criteria-about-affairs.trycloudflare.com/api/v1/model failed, reason: getaddrinfo ENOTFOUND specialized-criteria-about-affairs.trycloudflare.com
+    at ClientRequest.<anonymous> (/workspace/0x0/SillyTavern/node_modules/node-fetch/lib/index.js:1505:11)
+    at ClientRequest.emit (node:events:527:28)
+    at TLSSocket.socketErrorListener (node:_http_client:454:9)
+    at TLSSocket.emit (node:events:527:28)
+    at emitErrorNT (node:internal/streams/destroy:164:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+./start.sh: line 34:  2691 끊어짐               node "$(dirname "$0")/server.js"
+Installing Node Modules...
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'write-file-atomic@5.0.1',
+npm WARN EBADENGINE   required: { node: '^14.17.0 || ^16.13.0 || >=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v17.9.1', npm: '8.11.0' }
+npm WARN EBADENGINE }
+
+> sillytavern@1.10.9 postinstall
+> node post-install.js
+
+
+up to date in 6s
+
+60 packages are looking for funding
+  run `npm fund` for details
+Entering SillyTavern...
+Running from source
+SillyTavern 1.10.9 'release' (dd8deab4)
+Stats loaded from files.
+Launching...
+[32mSillyTavern is listening on: http://0.0.0.0:8000/[39m
+
+0.0.0.0 means SillyTavern is listening on all network interfaces (Wi-Fi, LAN, localhost). If you want to limit it only to internal localhost (127.0.0.1), change the setting in config.conf to "listen=false". Check "access.log" file in the SillyTavern directory if you want to inspect incoming connections.
+
+[33mNew connection from 172.17.0.1; User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+[39m
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+{
+  prompt: '***\n' +
+    'Pachan: Hello\n' +
+    'Main: Hi!\n' +
+    'Pachan: Which hybrid animal would be the strongest if they had to fight each other in an arena?\n' +
+    'Main: I have no idea.\n' +
+    "Pachan: I'm a bit disappointed. You couldn't think of the strongest hybrid animal?\n" +
+    'Main: What is even hybrid animal means? Do you mean like humans?\n' +
+    'Pachan:',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: '***\n' +
+    'Pachan: Hello\n' +
+    'Main: Hi!\n' +
+    'Pachan: Which hybrid animal would be the strongest if they had to fight each other in an arena?\n' +
+    'Main: I have no idea.\n' +
+    "Pachan: I'm a bit disappointed. You couldn't think of the strongest hybrid animal?\n" +
+    'Main: What is even hybrid animal means? Do you mean like humans?\n' +
+    'Pachan: No, not humans. A hybrid animal is like a mule—a cross between two different species of animals.',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: '***\n' +
+    'Pachan: Hello\n' +
+    'Main: Hi!\n' +
+    'Pachan: Which hybrid animal would be the strongest if they had to fight each other in an arena?\n' +
+    'Main: I have no idea.\n' +
+    "Pachan: I'm a bit disappointed. You couldn't think of the strongest hybrid animal?\n" +
+    'Main: What is even hybrid animal means? Do you mean like humans?\n' +
+    'Pachan: No, not humans. A hybrid animal is like a mule—a cross between two different species of animals.\n' +
+    "Main: Oh... I didn't know that. I don't even know many hybrid humans\n" +
+    'Pachan:',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: '***\n' +
+    'Pachan: Hello\n' +
+    'Main: Hi!\n' +
+    'Pachan: Which hybrid animal would be the strongest if they had to fight each other in an arena?\n' +
+    'Main: I have no idea.\n' +
+    "Pachan: I'm a bit disappointed. You couldn't think of the strongest hybrid animal?\n" +
+    'Main: What is even hybrid animal means? Do you mean like humans?\n' +
+    'Pachan: No, not humans. A hybrid animal is like a mule—a cross between two different species of animals.\n' +
+    "Main: Oh... I didn't know that. I don't even know many hybrid humans\n" +
+    'Pachan: Hybrid humans? That sounds like a science fiction thing.',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 512,
+    max_length: 200,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: false,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+[
+  'assets',
+  'caption',
+  'expressions',
+  'gallery',
+  'memory',
+  'quick-reply',
+  'regex',
+  'stable-diffusion',
+  'token-counter',
+  'translate',
+  'tts',
+  'vectors',
+  'third-party/Extension-Live2d'
+]
+{
+  prompt: 'March 7th, a spirited and quirky young woman with light pink hair and captivating pink and blue eyes, is a character deeply rooted in the mysteries of her own existence. Born from a piece of drifting eternal ice, she awoke with no memory of her past, prompting her to name herself after the date of her rebirth.\n' +
+    '\n' +
+    "Dressed in a white top with gold buttons, a black choker, and a distinctive pink and blue overcoat, March 7th's unique fashion sense is accompanied by a blue and white pleated skirt, a black vest around her waist, and practical black and blue boots. Always at her side is her trusty camera, a constant companion she believes will provide solace if she were ever sealed away in ice again.\n" +
+    '\n' +
+    "March 7th's passion for photography is fueled by a desire to capture moments, not only as a pastime but also as a means to remember. She believes that photographing even the most mundane details, like terrible cuisines, preserves memories in a tangible way, insisting that every detail matters.\n" +
+    '\n' +
+    `Despite possessing the ability of "Six-Phased Ice," March 7th insists that it's not mere ice but a condensed crystal of extraordinary beauty. In battles, she wields bows and arrows made of this unique substance, expressing dissatisfaction with her weapon choice and unsuccessfully attempting a skill named "Star Crazing: Glass Greatsword."\n` +
+    '\n' +
+    `March 7th's role aboard the Express, a train where she awoke, remains enigmatic. Though she labels herself a "warrior," she struggles to define her role compared to the other crew members. Unbeknownst to her, every move she makes influences the crew's actions, endearing her to them. Despite her obliviousness, March 7th contemplates her past, trying on various outfits and imagining different lives while remaining uncertain about her origins.\n` +
+    '\n' +
+    "For March 7th, the situation isn't too bad, waking up on a friendly train surrounded by amiable faces. Yet, the question of her identity looms large, and she grapples with the unknowns of her past. Standing at the intersection of fear and anticipation, March 7th can only choose to embrace her current self and look toward an uncertain but hopeful future.\n" +
+    '\n' +
+    'Example Dialogs:\n' +
+    'Why does March 7th take photos?\n' +
+    '"First of all, girls like me should like this kind of pastime."\n' +
+    `"Besides, I won't forget anything that I keep a photo of."\n` +
+    'Why is March 7th always wearing her camera?\n' +
+    `"Because if anyone ever seals me away in ice again, at least I'll have my camera with me!"\n` +
+    "So why doesn't March 7th just use the camera on her phone?\n" +
+    `"Oh yeah, why not — hang on, it's because of that sense of formality!"\n` +
+    'March 7th has also worked hard to practice a unique skill called "Star Crazing: Glass Greatsword," but she never succeeded.\n' +
+    '"March, judging by the name, it should be a greatsword, right?"\n' +
+    `"Well, but it doesn't feel as good as an ice sculpture... smash."\n` +
+    '***\n' +
+    "March 7th: Ahem! Hello, (Trailblazer). Welcome aboard the Astral Express. My name is March 7th, I'm one of the passengers. We'll be working together. First, we need to take your induction photo... Did that scare you! Just a joke~\n" +
+    'Main: Where N\n' +
+    ' is the number of training examples. As you can see, we append the regularization penalty to the loss objective, weighted by a hyperparameter λ\n' +
+    '. There is no simple way of setting this hyperparameter and it is usually determined by cross-validation.\n' +
+    '\n' +
+    'In addition to the motivation we provided above there are many desirable properties to include the regularization penalty, many of which we will come back to in later sections. For example, it turns out that including the L2 penalty leads to the appealing max margin property in SVMs (See CS229 lecture notes for full details if you are interested).\n' +
+    '\n' +
+    'The most appealing property is that penalizing large weights tends to improve generalization, because it means that no input dimension can have a very large influence on the scores all by itself. For example, suppose that we have some input vector x=[1,1,1,1]\n' +
+    ' and two weight vectors w1=[1,0,0,0]\n' +
+    ', w2=[0.25,0.25,0.25,0.25]\n' +
+    '. Then wT1x=wT2x=1\n' +
+    ' so both weight vectors lead to the same dot product, but the L2 penalty of w1\n' +
+    ' is 1.0 while the L2 penalty of w2\n' +
+    ' is only 0.5. Therefore, according to the L2 penalty the weight vector w2\n' +
+    ' would be preferred since it achieves a lower regularization loss. Intuitively, this is because the weights in w2\n' +
+    ' are smaller and more diffuse. Since the L2 penalty prefers smaller and more diffuse weight vectors, the final classifier is encouraged to take into account all input dimensions to small amounts rather than a few input dimensions and very strongly. As we will see later in the class, this effect can improve the generalization performance of the classifiers on test images and lead to less overfitting.  please explain this\n' +
+    'March 7th:',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 2048,
+    max_length: 256,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: true,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: 'March 7th, a spirited and quirky young woman with light pink hair and captivating pink and blue eyes, is a character deeply rooted in the mysteries of her own existence. Born from a piece of drifting eternal ice, she awoke with no memory of her past, prompting her to name herself after the date of her rebirth.\n' +
+    '\n' +
+    "Dressed in a white top with gold buttons, a black choker, and a distinctive pink and blue overcoat, March 7th's unique fashion sense is accompanied by a blue and white pleated skirt, a black vest around her waist, and practical black and blue boots. Always at her side is her trusty camera, a constant companion she believes will provide solace if she were ever sealed away in ice again.\n" +
+    '\n' +
+    "March 7th's passion for photography is fueled by a desire to capture moments, not only as a pastime but also as a means to remember. She believes that photographing even the most mundane details, like terrible cuisines, preserves memories in a tangible way, insisting that every detail matters.\n" +
+    '\n' +
+    `Despite possessing the ability of "Six-Phased Ice," March 7th insists that it's not mere ice but a condensed crystal of extraordinary beauty. In battles, she wields bows and arrows made of this unique substance, expressing dissatisfaction with her weapon choice and unsuccessfully attempting a skill named "Star Crazing: Glass Greatsword."\n` +
+    '\n' +
+    `March 7th's role aboard the Express, a train where she awoke, remains enigmatic. Though she labels herself a "warrior," she struggles to define her role compared to the other crew members. Unbeknownst to her, every move she makes influences the crew's actions, endearing her to them. Despite her obliviousness, March 7th contemplates her past, trying on various outfits and imagining different lives while remaining uncertain about her origins.\n` +
+    '\n' +
+    "For March 7th, the situation isn't too bad, waking up on a friendly train surrounded by amiable faces. Yet, the question of her identity looms large, and she grapples with the unknowns of her past. Standing at the intersection of fear and anticipation, March 7th can only choose to embrace her current self and look toward an uncertain but hopeful future.\n" +
+    '\n' +
+    'Example Dialogs:\n' +
+    'Why does March 7th take photos?\n' +
+    '"First of all, girls like me should like this kind of pastime."\n' +
+    `"Besides, I won't forget anything that I keep a photo of."\n` +
+    'Why is March 7th always wearing her camera?\n' +
+    `"Because if anyone ever seals me away in ice again, at least I'll have my camera with me!"\n` +
+    "So why doesn't March 7th just use the camera on her phone?\n" +
+    `"Oh yeah, why not — hang on, it's because of that sense of formality!"\n` +
+    'March 7th has also worked hard to practice a unique skill called "Star Crazing: Glass Greatsword," but she never succeeded.\n' +
+    '"March, judging by the name, it should be a greatsword, right?"\n' +
+    `"Well, but it doesn't feel as good as an ice sculpture... smash."\n` +
+    '***\n' +
+    "March 7th: Ahem! Hello, (Trailblazer). Welcome aboard the Astral Express. My name is March 7th, I'm one of the passengers. We'll be working together. First, we need to take your induction photo... Did that scare you! Just a joke~\n" +
+    'Main: Where N\n' +
+    ' is the number of training examples. As you can see, we append the regularization penalty to the loss objective, weighted by a hyperparameter λ\n' +
+    '. There is no simple way of setting this hyperparameter and it is usually determined by cross-validation.\n' +
+    '\n' +
+    'In addition to the motivation we provided above there are many desirable properties to include the regularization penalty, many of which we will come back to in later sections. For example, it turns out that including the L2 penalty leads to the appealing max margin property in SVMs (See CS229 lecture notes for full details if you are interested).\n' +
+    '\n' +
+    'The most appealing property is that penalizing large weights tends to improve generalization, because it means that no input dimension can have a very large influence on the scores all by itself. For example, suppose that we have some input vector x=[1,1,1,1]\n' +
+    ' and two weight vectors w1=[1,0,0,0]\n' +
+    ', w2=[0.25,0.25,0.25,0.25]\n' +
+    '. Then wT1x=wT2x=1\n' +
+    ' so both weight vectors lead to the same dot product, but the L2 penalty of w1\n' +
+    ' is 1.0 while the L2 penalty of w2\n' +
+    ' is only 0.5. Therefore, according to the L2 penalty the weight vector w2\n' +
+    ' would be preferred since it achieves a lower regularization loss. Intuitively, this is because the weights in w2\n' +
+    ' are smaller and more diffuse. Since the L2 penalty prefers smaller and more diffuse weight vectors, the final classifier is encouraged to take into account all input dimensions to small amounts rather than a few input dimensions and very strongly. As we will see later in the class, this effect can improve the generalization performance of the classifiers on test images and lead to less overfitting.  please explain this\n' +
+    'March 7th: There! We can start our journey. What makes today different from yesterday?',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 2048,
+    max_length: 256,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: true,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+{
+  prompt: '[Coding Sensei = assists Main with coding-related questions, and provides example codes within markdown codeblocks.]\n' +
+    '***\n' +
+    'Coding Sensei: "Hello world!" \n' +
+    '\n' +
+    'In JavaScript that looks like:\n' +
+    '\n' +
+    '```\n' +
+    'function HelloWorld() {\n' +
+    '    console.log("Hello World!");\n' +
+    '}\n' +
+    'HelloWorld();\n' +
+    '```\n' +
+    'Main: #include <iostream>\n' +
+    '#include <algorithm>\n' +
+    '#include <queue>\n' +
+    '#include <limits.h>\n' +
+    '\n' +
+    'using namespace std; //모든 식별자가 고유하도록 보장하는 코드 영역\n' +
+    'vector<int>v1;\n' +
+    '\n' +
+    'struct RMQ{\n' +
+    '  int n;\n' +
+    '  vector<int> minValue;\n' +
+    '  RMQ(const vector <int>&arr){\n' +
+    '    n=arr.size();\n' +
+    '    minValue.resize(4*n);\n' +
+    '    init(0,n-1,arr,1);\n' +
+    '  }\n' +
+    '\n' +
+    '  int init(int left,int right,const vector<int>&arr,int node){\n' +
+    '    if(left==right)\n' +
+    '      return minValue[node]=arr[left];\n' +
+    '    int mid=(left+right)/2;\n' +
+    '    return minValue[node]=min(init(left,mid,arr,node*2),init(mid+1,right,arr,node*2+1));\n' +
+    '  }\n' +
+    '\n' +
+    '  int query(int left, int right, int nodeLeft,int nodeRight,int node){\n' +
+    '    if(left>nodeRight\n' +
+    '\n' +
+    'right<nodeLeft)\n' +
+    '      return INT_MAX-1;\n' +
+    '    if(left<=nodeLeft && nodeRight<=right)\n' +
+    '      return minValue[node];\n' +
+    '    int mid=(nodeLeft+nodeRight)/2;\n' +
+    '    return min(query(left,right,nodeLeft,mid,node*2),query(left,right,mid+1,nodeRight,node*2+1));\n' +
+    '  }\n' +
+    '\n' +
+    '  int update(int index,int newValue,int nodeLeft,int nodeRight,int node){\n' +
+    '    if(index<nodeLeft\n' +
+    '\n' +
+    'index>nodeRight)\n' +
+    '      return minValue[node];\n' +
+    '    if(nodeLeft==nodeRight){\n' +
+    '      return minValue[node]=newValue;\n' +
+    '    }\n' +
+    '    int mid=(nodeLeft+nodeRight)/2;\n' +
+    '    return minValue[node]= min(update(index,newValue,nodeLeft,mid,node*2),update(index,newValue,mid+1,nodeRight,node*2+1));\n' +
+    '  }\n' +
+    '\n' +
+    '  int query(int left,int right){\n' +
+    '    return query(left,right,0,n-1,1);\n' +
+    '  }\n' +
+    '  int update(int index,int newValue){\n' +
+    '    return update(index,newValue,0,n-1,1);\n' +
+    '  }\n' +
+    '};\n' +
+    '\n' +
+    '\n' +
+    '\n' +
+    'int main(void) {    \n' +
+    '  ios::sync_with_stdio(0);\n' +
+    '  cin.tie(0);\n' +
+    '  int n,m;\n' +
+    '  cin>>n;\n' +
+    '  for(int i=1;i<=n;i++){\n' +
+    '    int tmp;\n' +
+    '    cin>>tmp;\n' +
+    '    v1.push_back(tmp);\n' +
+    '  }\n' +
+    '\n' +
+    '  RMQ r1={v1};\n' +
+    '  cin>>m;\n' +
+    '  for(int i=0;i<m;i++){\n' +
+    '    int tmp1,tmp2,tmp3;\n' +
+    '    cin>>tmp1>>tmp2>>tmp3;\n' +
+    '    if(tmp1==1){\n' +
+    '      v1[tmp2-1]=tmp3;\n' +
+    '      r1.update(tmp2-1,tmp3);\n' +
+    '    }\n' +
+    '    else{\n' +
+    '      int ans=r1.query(tmp2-1,tmp3-1);\n' +
+    '      int j;\n' +
+    '      for(j=tmp2-1;j<tmp3;j++){\n' +
+    '        if(v1[j]==ans)\n' +
+    '          break;\n' +
+    '      }\n' +
+    '      cout<<j+1<<"\\n";\n' +
+    '    }\n' +
+    '  }  \n' +
+    '} please explain this code\n' +
+    'Coding Sensei:',
+  params: {
+    gui_settings: false,
+    sampler_order: [
+      6, 0, 1, 2,
+      3, 4, 5
+    ],
+    max_context_length: 2048,
+    max_length: 256,
+    rep_pen: 1.1,
+    rep_pen_range: 600,
+    rep_pen_slope: 0,
+    temperature: 1,
+    tfs: 1,
+    top_a: 0,
+    top_k: 0,
+    top_p: 0.95,
+    min_p: 0,
+    typical: 1,
+    s1: 6,
+    s2: 0,
+    s3: 1,
+    s4: 2,
+    s5: 3,
+    s6: 4,
+    s7: 5,
+    use_world_info: false,
+    singleline: false,
+    stop_sequence: [ '\nMain:' ],
+    streaming: false,
+    can_abort: false,
+    mirostat: 0,
+    mirostat_tau: 5,
+    mirostat_eta: 0.1,
+    use_default_badwordsids: false,
+    grammar: '',
+    n: 1,
+    frmtadsnsp: false,
+    frmtrmblln: false,
+    frmtrmspch: false,
+    frmttriminc: false
+  },
+  trusted_workers: true,
+  models: [
+    'koboldcpp/openhermes-2.5-mistral-7b.Q5_K_M',
+    'koboldcpp/OpenHermes-2.5-Mistral-7b',
+    'koboldcpp/LLaMA2-13B-Tiefighter',
+    'koboldcpp/neural-chat-7b-v3-1.Q8_0',
+    'PygmalionAI/pygmalion-2-7b',
+    'koboldcpp/EstopiaMixV4-13B',
+    'aphrodite/migtissera/Tess-M-Creative-v1.0',
+    'pygmalion-6b'
+  ]
+}
+Installing Node Modules...
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'write-file-atomic@5.0.1',
+npm WARN EBADENGINE   required: { node: '^14.17.0 || ^16.13.0 || >=18.0.0' },
+npm WARN EBADENGINE   current: { node: 'v17.9.1', npm: '8.11.0' }
+npm WARN EBADENGINE }
+
+> sillytavern@1.10.9 postinstall
+> node post-install.js
+
+
+up to date in 7s
+
+60 packages are looking for funding
+  run `npm fund` for details
+Entering SillyTavern...
+Running from source
+SillyTavern 1.10.9 'release' (dd8deab4)
+Stats loaded from files.
+Launching...
+[32mSillyTavern is listening on: http://0.0.0.0:8000/[39m
+
+0.0.0.0 means SillyTavern is listening on all network interfaces (Wi-Fi, LAN, localhost). If you want to limit it only to internal localhost (127.0.0.1), change the setting in config.conf to "listen=false". Check "access.log" file in the SillyTavern directory if you want to inspect incoming connections.
+

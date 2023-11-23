@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "jerryfish02.moc3",
+		"Textures": [
+			"jerryfish02.8192/texture_00.png"
+		],
+		"Physics": "jerryfish02.physics3.json",
+		"DisplayInfo": "jerryfish02.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
